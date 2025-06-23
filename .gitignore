@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+*.sqlite3
+
+# FastAPI + Uvicorn
+instance/
+*.log
+
+# VSCode
+.vscode/
+
+# Otros
+.DS_Store
+*.db
+.idea/
+*.env
